@@ -21,12 +21,12 @@
     {
       "id": "ALERTS",
       "layers": [
-        { "image_path": "assets/dashboard/alerts.png", "x": 19, "y": 21, "recolor_palette": "disabled_dark_gray" }
+        { "image_path": "assets/dashboard/alerts.png", "x": 9, "y": 21, "recolor_palette": "disabled_dark_gray" }
       ],
       "selected_layers": [
-        { "image_path": "assets/dashboard/highlight.png", "x": 0, "y": 0 },
-        { "image_path": "assets/dashboard/alerts.png", "x": 19, "y": 18, "recolor_palette": "soft_white" },
-        { "text": "ALERTS", "x": 175, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
+        { "image_path": "assets/dashboard/highlight.png", "x": 1, "y": 1 },
+        { "image_path": "assets/dashboard/alerts.png", "x": 9, "y": 18, "recolor_palette": "soft_white" },
+        { "text": "ALERTS", "x": 185, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
       ],
       "x": 12,
       "y": 125,
@@ -35,11 +35,11 @@
     {
       "id": "PAYLOADS",
       "layers": [
-        { "image_path": "assets/dashboard/payloads.png", "x": 20, "y": 18, "recolor_palette": "disabled_dark_gray" }
+        { "image_path": "assets/dashboard/payloads.png", "x": 11, "y": 21, "recolor_palette": "disabled_dark_gray" }
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/highlight.png", "x": 0, "y": 0 },
-        { "image_path": "assets/dashboard/payloads.png", "x": 20, "y": 15, "recolor_palette": "soft_white" },
+        { "image_path": "assets/dashboard/payloads.png", "x": 11, "y": 18, "recolor_palette": "soft_white" },
         { "text": "PAYLOADS", "x": 60, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
       ],
       "x": 110,
@@ -50,11 +50,11 @@
     {
       "id": "RECON",
       "layers": [
-        { "image_path": "assets/dashboard/recon.png", "x": 19, "y": 19, "recolor_palette": "disabled_dark_gray" }
+        { "image_path": "assets/dashboard/recon.png", "x": 12, "y": 19, "recolor_palette": "disabled_dark_gray" }
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/highlight.png", "x": 0, "y": 0 },
-        { "image_path": "assets/dashboard/recon.png", "x": 19, "y": 16, "recolor_palette": "soft_white" },
+        { "image_path": "assets/dashboard/recon.png", "x": 12, "y": 16, "recolor_palette": "soft_white" },
         { "text": "RECON", "x": -3, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
       ],
       "x": 205,
@@ -64,11 +64,11 @@
     {
       "id": "PINEAP",
       "layers": [
-        { "image_path": "assets/dashboard/pineap.png", "x": 21, "y": 19, "recolor_palette": "disabled_dark_gray" }
+        { "image_path": "assets/dashboard/pineap.png", "x": 11, "y": 19, "recolor_palette": "disabled_dark_gray" }
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/highlight.png", "x": 0, "y": 0 },
-        { "image_path": "assets/dashboard/pineap.png", "x": 21, "y": 16, "recolor_palette": "soft_white" },
+        { "image_path": "assets/dashboard/pineap.png", "x": 11, "y": 16, "recolor_palette": "soft_white" },
         { "text": "PINEAP", "x": -110, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
       ],
       "x": 300,
@@ -78,11 +78,11 @@
     {
       "id": "SETTINGS",
       "layers": [
-        { "image_path": "assets/dashboard/settings.png", "x": 20, "y": 19, "recolor_palette": "disabled_dark_gray" }
+        { "image_path": "assets/dashboard/settings.png", "x": 10, "y": 19, "recolor_palette": "disabled_dark_gray" }
       ],
       "selected_layers": [
         { "image_path": "assets/dashboard/highlight.png", "x": 0, "y": 0 },
-        { "image_path": "assets/dashboard/settings.png", "x": 20, "y": 16, "recolor_palette": "soft_white" },
+        { "image_path": "assets/dashboard/settings.png", "x": 10, "y": 16, "recolor_palette": "soft_white" },
         { "text": "SETTINGS", "x": -220, "y": -105, "text_size": "large", "text_color_palette": "soft_white" }
       ],
       "x": 395,

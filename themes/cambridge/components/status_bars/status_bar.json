@@ -6,7 +6,7 @@
   },
   "status_bar_items": {
     "Volume": {
-      "x": 260,
+      "x": 255,
       "y": 5,
       "layers": {
         "mute":   [{ "image_path": "assets/statusbar/mute.png", "x": 0, "y": 0, "recolor_palette": "cyan" }],
