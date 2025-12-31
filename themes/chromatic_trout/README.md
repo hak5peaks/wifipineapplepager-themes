@@ -88,3 +88,19 @@
 <img width="36" height="36" alt="Icon 2" src="https://github.com/user-attachments/assets/0fdd39bb-38cf-4666-87a3-6e8ea67394bc" />
 </p>
 <p align="center"><em>Custom icons with chromatic aberration styling. All icons have been redone in chromatic.</em></p>
+
+<p align="center">
+<img width="300" height="2" alt="" src="https://github.com/user-attachments/assets/aead79d7-7e30-49ab-96e3-d14f8a8f663e" />
+</p>
+
+<h3 align="center">Dialog Backgrounds</h3>
+<p align="center">
+<img width="398" height="220" alt="alert_dialog_bg_term" src="https://github.com/user-attachments/assets/bdd51399-13e2-4b49-a8f7-6c104cd41c4a" />
+&nbsp;&nbsp;
+<img width="429" height="222" alt="alert_dialog_bg_term_blue" src="https://github.com/user-attachments/assets/1bbcc816-1c65-4ecd-b942-ef8a75394637" />
+&nbsp;&nbsp;
+<img width="429" height="222" alt="alert_dialog_bg_term_error" src="https://github.com/user-attachments/assets/2207e3a1-6cbd-4969-9076-6c15b1507a27" />
+<img width="429" height="222" alt="alert_dialog_bg_term_warning" src="https://github.com/user-attachments/assets/25d3a686-4b34-44a5-9eb8-9aa2e2a6256f" />
+<img width="429" height="222" alt="confirmation_dialog_bg_term" src="https://github.com/user-attachments/assets/775ab01b-a260-497e-baac-cb197bed495b" />
+</p>
+<p align="center"><em>Custom dialog backgrounds.</em></p>
