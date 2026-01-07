@@ -36,8 +36,8 @@
       "animation": [
         { "image_path": "assets/launch_payload_dialog/animation/reaper-1.png","x": 335, "y": 59 },
         { "image_path": "assets/launch_payload_dialog/animation/reaper-2.png","x": 335, "y": 59 },
-	{ "image_path": "assets/launch_payload_dialog/animation/reaper-3.png","x": 335, "y": 59 },
-	{ "image_path": "assets/launch_payload_dialog/animation/reaper-4.png","x": 335, "y": 59 }
+	      { "image_path": "assets/launch_payload_dialog/animation/reaper-3.png","x": 335, "y": 59 },
+	      { "image_path": "assets/launch_payload_dialog/animation/reaper-4.png","x": 335, "y": 59 }
       ]
     },
     {
